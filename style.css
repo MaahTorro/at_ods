@@ -1,0 +1,88 @@
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 28px;
+    margin-left: 10px;
+}
+
+p{
+    text-align: justify;
+    font-size: 22px;
+    align-items: center;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+
+H2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 26px;
+}
+
+div{
+    display: flex;
+    flex-direction:row;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+
+.logo{
+    width: 460px;
+    height: 150px;
+    margin-block-end: 30px;
+}
+
+.img2{
+    width: 160px;
+    height: 162px;
+    margin-left: 15px;
+}
+
+.objetivos{
+    margin-block-end: 20px;
+    margin-block-start: 20px;
+}
+
+.textcenter{
+    margin-block-end: 20px;
+}
+
+.img3{
+    margin-left: 15px;
+}
+
+.img5{
+    margin-left: 15px;
+}
+
+.img6{
+    margin-left: 15px;
+}
+
+.img8{
+    margin-left: 15px;
+}
+
+.img9{
+    margin-left: 15px;
+}
+
+.img11{
+    margin-left: 15px;
+}
+
+.img12{
+    margin-left: 15px;
+}
+
+.img14{
+    margin-left: 15px;
+}
+
+.img15{
+    margin-left: 15px;
+}
+
+.img17{
+    margin-left: 15px;
+}
